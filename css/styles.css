@@ -324,3 +324,7 @@ body {
 .fe-pseudo-list .fe-pseudo-list-item  .fe-pseudo-list-item-link.opened span {
 	transform: rotate(180deg);
 }
+
+.fe-pseudo-list .fe-pseudo-list-item  .fe-pseudo-list-item-text {
+	font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
